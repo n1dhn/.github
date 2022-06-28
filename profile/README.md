@@ -1,6 +1,6 @@
 ## 👋 Got Fexr?
 
-Fexr 👼🏽 is an open source crypto wallet focusing on device signing and verification of On-Chain Verifiable Claims within Rubix L1 Blockchain Platform. <br><br>
+Fexr 👼🏽 started as an open source crypto wallet + Identity management over Rubix L1 Blockchain Platform. Our core focus is to build smart on-device signing and verification of On-Chain Verifiable Claims within Rubix L1 Blockchain Platform. <br><br>
 🌈 All communication SDKs of Fexr is available and updated within this GitHub Org. You can start your contribution by choosing a repo related to your stack and look for open issues.<br><br>
 👩‍💻 All resources related to SDK or plugin is available within the repo in Wiki Section. You can also drop questions to developers in [Discord]() or [Telegram]().<br><br>
 💪🏽 Fexr is here to stay! Tools built by Fexr that gets popular over time will be fully open sourced for all to contribute and develop forever for free.
