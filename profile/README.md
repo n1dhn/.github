@@ -1,17 +1,17 @@
-## 👋 Got Fexr?
+<img src="https://getfexr.com/img/web3Auth.svg">
 
-Fexr 👼🏽 started as an open source crypto wallet + Identity management over Rubix L1 Blockchain Platform. Our core focus is to build smart on-device signing and verification of On-Chain Verifiable Claims within Rubix L1 Blockchain Platform. <br><br>
-🌈 All communication SDKs of Fexr is available and updated within this GitHub Org. You can start your contribution by choosing a repo related to your stack and look for open issues.<br><br>
-👩‍💻 All resources related to SDK or plugin is available within the repo in Wiki Section. You can also drop questions to developers in [Discord]() or [Telegram]().<br><br>
-💪🏽 Fexr is here to stay! Tools built by Fexr that gets popular over time will be fully open sourced for all to contribute and develop forever for free.
+*Let winters and rains in crypto not take your trust away from the future of payments.* 
+<br/><br/>
+We are commited to make your experience in Web3 world as smooth as possible. Fexr is bridging complex invoice clearing in real world payments like a techie and a designer would do using the power of blockchain. Goal as the name denotes is on faster clearing and checkout experience for different levels of users and use-cases. We have onboarded top talents in banking and blockchain to make this happen.
+<br/>
+<br/>
+To start with, Fexr is ready with its first tool for users to get their own wallet and start using it. We are also working on a tool for merchants to accept payments in crypto. We will be launching these tools in phases and will keep you updated on the progress.
 
-<!--
-
-**Here are some ideas to get you started:**
-
- A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**important links :**
+- [Website](https://getfexr.com)
+- [Telegram](https://t.me/getfexr)
+- [Twitter](https://twitter.com/getfexr)
+- [Learn Rubix](https://learn.rubix.net)
+- [Careers](https://getfexr.com/careers)
+- [API Endpoints](https://getfexr.com)
+- [Club](https://fexr.club)
